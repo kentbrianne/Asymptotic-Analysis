@@ -82,6 +82,6 @@ plt.plot(nValue,poly)
 plt.plot(nValue,expo)
 
 plt.xlabel("Value of N")
-plt.ylabel("Runtime")
+plt.ylabel("Answers")
 plt.title("Asymptotic Analysis")
 plt.show()
